@@ -2,7 +2,7 @@
 
 This code will set-up a Django Project with tailwindCSS and daisyUI ready to be deployed to Heroku.
 
-This template was created alongside this [blogpost](https://kenshuri-blog.herokuapp.com/posts/005_deploy_to_heroku.md)
+This template was created alongside this [blogpost](https://blog.kenshuri.com/posts/005_deploy_to_heroku.md)
 
 ## Set-up the project
 
